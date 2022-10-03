@@ -10,7 +10,7 @@ const info = (req, res) => {
     res.render('info.ejs')
 }
 const contactus = (req, res) => {
-    res.render('contactus.ejs')
+    res.render('contactUs.ejs')
 }
 
 
